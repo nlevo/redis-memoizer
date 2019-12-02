@@ -23,7 +23,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "redis-memoizer",
+  "name": "@nlevo/redis-memoizer",
   "repository": "",
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha --reporter spec --timeout 5000"
