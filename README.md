@@ -1,3 +1,6 @@
+### This repo is a copy of https://www.npmjs.com/package/redis-memoizer @ v1.0.2.
+It was created due to the original repo being no longer available at the time of creation this repo.
+
 redis-memoizer
 ===
 
